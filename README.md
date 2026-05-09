@@ -35,7 +35,7 @@ torchvision==0.4.1
 scipy==1.17.1
 ```
 
-### Data pre-processing 
+### Data
 Please download train data as follows:
 1) **Abdominal MRI**: [Combined Healthy Abdominal Organ Segmentation dataset](https://chaos.grand-challenge.org/)
 2) **Abdominal CT**: [Multi-Atlas Abdomen Labeling Challenge](https://www.synapse.org/#!Synapse:syn3193805/wiki/218292)
