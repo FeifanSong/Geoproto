@@ -103,9 +103,7 @@ def cfg():
 
     path = {
         'log_dir': './runs',
-        # 'SABS':{'data_dir': "./Geoproto/data/ABD/ABDOMEN_CT/sabs_CT_normalized"},
-        'SABS': {'data_dir': "/media/cs4007/disk2/ShapeprotoV4/Self-supervised-Fewshot-Medical-Image-Segmentation-master/data/ABD"
-                             "/ABDOMEN_CT/sabs_CT_normalized"},
+        'SABS': {'data_dir': "./Geoproto/data/ABD/ABDOMEN_CT/sabs_CT_normalized"},
         'CHAOST2':{'data_dir': "./Geoproto/data/ABD/ABDOMEN_MR/chaos_MR_T2_normalized"},
         'CARDIAC_bssFP': {'data_dir': './Geoproto/data/Cardiac/bSSFP/cmr_bssFP_normalized'},
         'CARDIAC_LGE': {'data_dir': './Geoproto/data/Cardiac/LGE/cmr_LGE_normalized'},
