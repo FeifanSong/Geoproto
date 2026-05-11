@@ -1,5 +1,4 @@
 # Geometric-aware prototype learning for cross-domain few-shot medical image segmentation
-[Neurips'26 submitted]
 
 
 <div align="center">
