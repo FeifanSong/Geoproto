@@ -47,7 +47,7 @@ def cfg():
 
     # Network
     modelname = 'dlfcn_res101' # 'dlfcn_res50'
-    reload_model_path = '/media/a6000/3E5C99E35C9995ED/sff/ShapeprotoV6/runs/mySSL__SABS_sets_0_1shot/2/snapshots/40000.pth'
+    reload_model_path = '/change/this/to/your/own/path'
     proto_grid_size = 8
     feature_hw = [32, 32]
 
